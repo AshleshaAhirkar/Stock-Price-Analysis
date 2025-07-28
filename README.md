@@ -55,12 +55,19 @@ Enable user to switch between companies interactively
 
 
 2️⃣ Moving Averages (10, 20, 50 days)
+ ![Dashboard Preview](https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis2.png)
 
 
 3️⃣ Daily Returns for Selected Company
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis3.png)
 
 
 4️⃣ Resampled Closing Price (Monthly, Quarterly, Yearly)
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis4.png)
+
+4️⃣Correlatiion Bewtween Companies (Closing Prices)
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis5.1.png)
+![Dashboard Preview](https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis5.2.png)
 
 
 💼 Business Impact
