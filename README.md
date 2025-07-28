@@ -50,6 +50,7 @@ Enable user to switch between companies interactively
 🖼️ Walkthrough of Visuals
 
 1️⃣ Closing Price Over Time (Apple Example)
+https://github.com/AshleshaAhirkar/Stock-Price-Analysis/blob/main/Analysis1.png
 
 
 
