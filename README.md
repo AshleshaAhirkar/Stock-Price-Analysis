@@ -9,10 +9,15 @@ This dashboard enables users to interactively explore stock price behavior of le
 🧰 Tech Stack
 
 • 🐍 Python
+
 • 📊 Pandas & NumPy – for data handling
+
 • 📉 Matplotlib & Seaborn – for visualizations
+
 • 📒 Jupyter Notebook – for development
+
 • 🖥️ Streamlit / Python script – for dashboard creation
+
 • 📁 Dataset – Individual CSVs per company (5-year daily data)
 
 📂 Data Source
